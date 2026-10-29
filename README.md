@@ -19,3 +19,7 @@ npm test
 
 > (I manually edited npm-shrinkwrap to override the version of rxjs depended on by angular).
 - @jeffbcross 10/14/15
+
+import pandas as pd
+
+import pandas as pd
